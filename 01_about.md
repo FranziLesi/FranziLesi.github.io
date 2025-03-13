@@ -1,13 +1,9 @@
 ---
 layout: page
-title: About
+title: CV
 ---
 
-<p class="message">
-  Hey there! I am a master's student studying Technical Mathematics at the Technical University of Vienna. I am interested in game theory, especially evolutionary game theory.
-</p>
-
-<h4> Education </h4>
+<h2 style="text-align: center;">Education</h2>
 
 <hr>
 <p>
@@ -22,6 +18,14 @@ TU Wien
 - Thesis: tba
 
 <p>
+    <span> <b>Reserach Internship </b> </span>
+    <span style="float:right;">Summer 2024</span>
+    <div class="clearix"></div>
+</p>
+
+[Dynamics of Social Behavior](http://web.evolbio.mpg.de/social-behaviour/) at the Max Planck Institute for Evolutionary Biology
+
+<p>
     <span> <b>BSc in Technical Mathematics</b> </span>
     <span style="float:right;">2020-2023</span>
     <div class="clearix"></div>
@@ -33,7 +37,7 @@ TU Wien
 - Thesis: Evolutionary Game Theory and Population Genetics
 - Graduated with: Distinction
 
-<h4> Teaching </h4>
+<h2 style="text-align: center;">Teaching</h2>
 
 <hr>
 <p>
@@ -65,16 +69,18 @@ Institute of Analysis and Scientific Computing, TU Wien
 
 
 
-
-
-
-<h4>Funding</h4>
+<h2 style="text-align: center;">Funding</h2>
 <hr>
 
-- TU Wien: Grant for short-term scientific studies abroad - €1500 
-- TU Wien: Merit scholarship 2024 - €1100
-- TU Wien: Merit scholarship 2023 - €1250
-- TU Wien: Merit scholarship 2021 - €750
+- Grant for short-term scientific studies abroad - €1500 
+- Merit scholarship 2024 - €1100
+- Merit scholarship 2023 - €1250
+- Merit scholarship 2021 - €750
+
+<h2 style="text-align: center;">Other academic acchievements</h2>
+<hr>
+
+- Early Student Award 2022 of the ÖMG (Austrian Mathematical Society)
 
 
 
