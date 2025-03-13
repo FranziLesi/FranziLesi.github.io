@@ -15,11 +15,17 @@
   <div class="masthead">
     <div class="container">
       <h3 class="masthead-title">
-        <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-        <small>{{ site.tagline }}</small>
+        <span class="title-container">
+          <img src="{{ site.baseurl }}/profile.png" class="logo">
+          <div class="text-container">
+            <a href="{{ site.baseurl }}/" title="Home" class="site-title">{{ site.title }}</a> &nbsp;
+            <small class="tagline">{{ site.tagline }}</small>
+          </div>
+        </span>
       </h3>
     </div>
   </div>
+</div>
 
   <div class="container content">
     {{ content }}
@@ -29,6 +35,19 @@
 <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
 <script src='{{ site.baseurl }}/public/js/script.js'></script>
+
+<div class="wrap">
+  <div class="masthead">
+  </div>
+  <div class="container">
+    <div class="social-icons">
+      {% if site.social.twitter %}<a href="https://twitter.com/yourhandle" target="_blank"><i class="fa-brands fa-x-twitter"></i></a> {% endif %}
+      {% if site.social.github %}<a href="https://github.com/yourhandle" target="_blank"><i class="fa-brands fa-github"></i></a> {% endif %}
+      {% if site.social.linkedin %}<a href="https://linkedin.com/in/yourhandle" target="_blank"><i class="fa-brands fa-linkedin"></i></a>{% endif %}
+    </div>
+</div>
+</div>
+
 </body>
 
 </html>

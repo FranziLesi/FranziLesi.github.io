@@ -14,6 +14,11 @@ author:
   email:             franziska.lesigang@tuwien.ac.at
   github:            FranziLesi
 
+social:
+  twitter: "https://twitter.com/yourhandle"
+  github: "https://github.com/yourhandle"
+  linkedin: "https://linkedin.com/in/yourhandle"
+  
 # Gems
 plugins:
   - jekyll-paginate
