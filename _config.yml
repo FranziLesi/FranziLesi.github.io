@@ -3,7 +3,7 @@ title:               Franziska Lesigang
 tagline:             "Master's student"
 description:         'A mathematician interested in evolutionary game theory.'
 url:                 https://FranziLesi.github.io
-baseurl:             'FranziLesi.github.io'
+baseurl:             ''
 paginate:            5
 permalink:           pretty
 
