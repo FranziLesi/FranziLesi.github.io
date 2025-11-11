@@ -7,6 +7,17 @@ title: CV
 
 <hr>
 <p>
+    <span> <b>PhD candidate </b> </span>
+    <span style="float:right;">2025-current</span>
+    <div class="clearix"></div>
+</p>
+IT:U Linz
+
+- Thesis: tba
+- Supervised by: <a href="https://nikoleta-v3.github.io/" target="_blank">Nikoleta E. Glynatsi </a> and <a href="https://christian-hilbe.github.io/" target="_blank">Christian Hilbe </a>
+
+
+<p>
     <span> <b>MSc in Technical Mathematics </b> </span>
     <span style="float:right;">2023-2025</span>
     <div class="clearix"></div>
@@ -15,7 +26,8 @@ title: CV
 
 TU Wien
 
-- Thesis: tba
+- Thesis: <a href="https://repositum.tuwien.at/handle/20.500.12708/219348" target="_blank">Best Responses in Repeated Games with Conditional Strategies</a>
+- Graduated with: Distinction
 
 <p>
     <span> <b>Reserach Internship </b> </span>
@@ -42,7 +54,7 @@ TU Wien
 <hr>
 <p>
     <span> <b>Student employee </b> </span>
-    <span style="float:right;">2021-current</span>
+    <span style="float:right;">2021-2025</span>
     <div class="clearix"></div>
 </p>
 
@@ -77,10 +89,11 @@ Institute of Analysis and Scientific Computing, TU Wien
 - Merit scholarship 2023 - €1250
 - Merit scholarship 2021 - €750
 
-<h2 style="text-align: center;">Other academic acchievements</h2>
+<h2 style="text-align: center;">Other academic acchievements and Outreach</h2>
 <hr>
 
 - Early Student Award 2022 of the ÖMG (Austrian Mathematical Society)
+- Member of <a href="https://www.tuwien.at/en/mg/femma" target="_blank">fem*MA</a>
 
 
 

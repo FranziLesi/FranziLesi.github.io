@@ -1,6 +1,6 @@
 # Setup
 title:               Franziska Lesigang
-tagline:             "Master's student at TU Wien"
+tagline:             "PhD candidate at IT:U"
 description:         'A mathematician interested in evolutionary game theory.'
 url:                 https://FranziLesi.github.io
 baseurl:             ''
@@ -11,13 +11,15 @@ permalink:           pretty
 author:
   name:              Franziska Lesigang
   url:               https://bsky.app/profile/franzilesi.bsky.social
-  email:             franziska.lesigang@tuwien.ac.at
+  email:             franziska.lesigang@it-u.at
   github:            FranziLesi
+  google_scholar:    citations?user=7G59FcQAAAAJ&hl=en
 
 social:
   bluesky: "https://bsky.app/profile/franzilesi.bsky.social"
   github: "https://github.com/FranziLesi"
   linkedin: "https://www.linkedin.com/in/franziska-lesigang-28a057323/"
+  google_scholar: "https://scholar.google.com/citations?user=7G59FcQAAAAJ&hl=en"
   
 # Gems
 plugins:
