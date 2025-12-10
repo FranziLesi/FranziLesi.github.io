@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CV
+hide_title: true
 ---
 
 <h2 style="text-align: center;">Education</h2>
@@ -84,6 +85,7 @@ Institute of Analysis and Scientific Computing, TU Wien
 <h2 style="text-align: center;">Funding</h2>
 <hr>
 
+- Merit scholarship 2025 - €1500
 - Grant for short-term scientific studies abroad - €1500 
 - Merit scholarship 2024 - €1100
 - Merit scholarship 2023 - €1250
